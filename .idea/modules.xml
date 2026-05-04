@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/att-java.iml" filepath="$PROJECT_DIR$/.idea/att-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex011/ex011.iml" filepath="$PROJECT_DIR$/ex011/ex011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex012/ex012.iml" filepath="$PROJECT_DIR$/ex012/ex012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex013/ex013.iml" filepath="$PROJECT_DIR$/ex013/ex013.iml" />
     </modules>
   </component>
 </project>
